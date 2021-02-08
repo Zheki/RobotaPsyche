@@ -21,7 +21,6 @@ class Vehicle {
   PVector throttle;
   PVector velocity;
   float cap = 10;
-  float mass;
 
   Vehicle() {
     velocity = new PVector(0, 0);
