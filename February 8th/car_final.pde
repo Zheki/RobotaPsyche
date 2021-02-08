@@ -9,11 +9,9 @@ void setup() {
 
 void draw() {
   background(0, 0, 200);
-  PVector force = new PVector(0, 0);
   v.update();
   v.border();
   v.display();
-  v.applyForce(force);
 }
 
 class Vehicle {
@@ -45,11 +43,6 @@ class Vehicle {
     throttle.mult(0);
     velocity.limit(cap);
   }
-
-  void applyForce(PVector force) {
-    throttle.add(force);
-  }
-
 
   void border() {
     if (position.x > width) {
