@@ -2,7 +2,7 @@
 
 For this assignment I wanted to create a simulation of viruses evolving to attack a cell. The idea is that the program begins with some predefined number of viruses and randomly discovers a cell, which every generation attempts to attack more. If the virus particle leaves the screen borders, it dies.
 
-[]("virus1.png)
+![]("virus1.png)
 
 ## Difficulties:
 
@@ -14,7 +14,7 @@ The println() tool was extremely useful for trying to debug many parts of my cod
 
 
 ## Examples:
-[](virus2.png)
-[](virus3.png)
+![](virus2.png)
+![](virus3.png)
 
 
