@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+/* Canvas size */
+canvas{
+    width: 100vw !important;
+    height: 100vh !important;
+}
