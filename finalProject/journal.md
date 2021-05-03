@@ -14,9 +14,9 @@ After doing some research, I discovered an amazing tool by Google, called Teacha
 
 So I made a tool, powered my machine learning, that would recognize if I am wearing sunglasses or not before I leave my home. Then by checking whether it is daytime or nighttime, and if I am wearing sunglasses or not, the machine would advise me on what to do.
 
-[](off.png)
-[](on.png)
-[](off2.png)
-[](on2.png)
-[](final1.png)
-[](final2.png)
+![](off.png)
+![](on.png)
+![](off2.png)
+![](on2.png)
+![](final1.png)
+![](final2.png)
