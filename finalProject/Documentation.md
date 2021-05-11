@@ -22,7 +22,7 @@ would create or "learn" what specific values need to be. We are not giving it di
 
 In order to use the ML5.js and P5.js libraries, I had to load them through a link in my code. For my project I loaded them into my index.html file as shown in the image below, but there are different ways to achieve this based on your coding needs. This is very carefuly and thoroughly explained into the ["Get Started"](https://learn.ml5js.org/#/) section of each respective library. Please note that if you would like to replicate how I did it, make sure that you are using the most up to date version, which might be different from the one at the time of me creating the project. Please make sure to use the latest version by copying the link text from the library's official website.
 
-[](ex1.png)
+![](ex1.png)
 
 # After the project
 
